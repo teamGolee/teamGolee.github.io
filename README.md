@@ -1,2 +1,5 @@
-# teamGolee.github.io
-CREATE github blog 
+# 인공지능을 활용한 악성코드 탐지 시스템 
+
+### 과목 : 정보보호프로젝트실습
+
+### 네카라쿠배 팀
